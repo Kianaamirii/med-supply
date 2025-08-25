@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "med supply", "med supply\med supply.csproj", "{63180D6D-B870-4F72-ABD0-AA05328E3538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63180D6D-B870-4F72-ABD0-AA05328E3538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63180D6D-B870-4F72-ABD0-AA05328E3538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63180D6D-B870-4F72-ABD0-AA05328E3538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63180D6D-B870-4F72-ABD0-AA05328E3538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B63135B4-01A2-42C3-A5C3-A8A2EA551AD9}
+	EndGlobalSection
+EndGlobal
